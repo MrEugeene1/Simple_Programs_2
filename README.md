@@ -1,18 +1,22 @@
 # Python Works
 
-This repository contains small Python practice programs.
+A small Python practice project focused on basic list processing.
 
-## Current Script
+## Overview
 
-- `simplePrograms.py`: Finds and prints the largest number in a predefined list.
+The script reads a predefined list of integers, finds the largest value using a loop, and prints the result.
 
-## Run
+## File
+
+- `simplePrograms2.py` - Finds and prints the maximum number in the list.
+
+## How to Run
 
 ```bash
-python simplePrograms.py
+python simplePrograms2.py
 ```
 
-Expected output:
+## Example Output
 
 ```text
 17
